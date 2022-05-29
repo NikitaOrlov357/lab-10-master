@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by NIK
 
 #include <iostream>
 #include <boost/program_options.hpp>

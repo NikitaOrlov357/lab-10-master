@@ -1,4 +1,4 @@
-// Copyright by ENigma
+// Copyright by NIK
 
 #ifndef INCLUDE_DATABASE_HPP_
 #define INCLUDE_DATABASE_HPP_
@@ -9,7 +9,7 @@
 #include <rocksdb/options.h>
 #include <rocksdb/slice.h>
 #include <rocksdb/advanced_options.h>
-#include "../third-party/PicoSHA2/picosha2.h"
+#include "picosha2.h"
 #include "../third-party/ThreadPool.h"
 #include <mutex>
 #include <queue>

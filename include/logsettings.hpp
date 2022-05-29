@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by NIK
 
 #ifndef INCLUDE_LOGSETTINGS_HPP_
 #define INCLUDE_LOGSETTINGS_HPP_
